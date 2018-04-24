@@ -1,4 +1,4 @@
-﻿namespace DJ.libnodave.net
+﻿namespace DJ.libnodave.Test
 {
     partial class Form1
     {

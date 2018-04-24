@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-namespace DJ.libnodave.net
+using System.Runtime.InteropServices;
+using libnodave.net;
+namespace DJ.libnodave.Test
 {
     public partial class Form1 : Form
     {
+        static libnodave.   .daveOSserialType fds;
         public Form1()
         {
             InitializeComponent();
